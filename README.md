@@ -368,7 +368,8 @@ week-2-skincare-review-analysis/
 ├── Week2_Skincare_Reviews.ipynb
 ├── report/
 │   └── Week2_Data_Sourcing_and_Initial_Analysis_Report.docx
-└── .gitignore
+|   └── Week2_Data_Sourcing_and_Initial_Analysis_Report.pdf
+
 ```
 
 Do not commit the full raw dataset, private credentials, Hugging Face access tokens, or unnecessary reviewer identifiers. The notebook uses the hosted dataset URI to load a limited sample.
